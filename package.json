@@ -1,0 +1,25 @@
+{
+  "name": "lit-element-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaskadi/lit-element-build.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaskadi/lit-element-build/issues"
+  },
+  "homepage": "https://github.com/kaskadi/lit-element-build#readme",
+  "dependencies": {
+    "lit-element": "^2.2.1"
+  },
+  "devDependencies": {
+    "polymer-cli": "^1.9.11"
+  }
+}
